@@ -25,5 +25,3 @@ workflows:
     jobs:
       - say-hello
 
-This is a test
-git fetch --force --tags origin
